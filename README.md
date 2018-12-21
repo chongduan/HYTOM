@@ -17,7 +17,7 @@ If you find this helpful, please cite <a href="https://onlinelibrary.wiley.com/d
 ### test_figure_2a_2b
 2a: Simulate the bSSFP signal evolution for three scenarios: 1) single pool; 2) two pools; 3) two pools with magnetization transfer preparation.
 
-![Figure 2a](https://raw.githubusercontent.com/chongduan/HYTOM/master/Images/bSSFP_profile.png)
+![Figure 2a](https://raw.githubusercontent.com/chongduan/HYTOM/master/Images/bSSFP_profile.png){width=20%}
 
 2b: Plot the off-resonance profiles for each of the scenarios at the center of kspace (you may choose any echoes).
 
