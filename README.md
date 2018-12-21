@@ -18,6 +18,8 @@ Beth Israel Deaconess Medical Center and Harvard Medical School
 ### test_figure_2a_2b
 2a: Simulate the bSSFP signal evolution for three scenarios: 1) single pool; 2) two pools; 3) two pools with magnetization transfer preparation.
 
+![Figure 2a](HYTOM/Images/bSSFP_profile.tif)
+
 2b: Plot the off-resonance profiles for each of the scenarios at the center of kspace (you may choose any echoes).
 
 ### test_figure_2c
