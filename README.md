@@ -1,7 +1,4 @@
----
 
-
----
 
 <h1 id="hytom">HYTOM</h1>
 <p>Simulation code for Hybrid T One and Magnetization transfer (HYTOM) method.  These simulations are built upon the EPG-X framework developed by Shaihan Malik, King’s College London. <a href="https://github.com/shaihanmalik">GitHub</a></p>
@@ -24,5 +21,5 @@ Beth Israel Deaconess Medical Center and Harvard Medical School</p>
 <p><a href="https://choosealicense.com/licenses/mit/">MIT</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjA2MjQ2MV19
+eyJoaXN0b3J5IjpbNDQwNTYwNTk1LDExMjIwNjI0NjFdfQ==
 -->
