@@ -28,7 +28,3 @@ If you find this helpful, please cite <a href="https://onlinelibrary.wiley.com/d
 2c: Simulate the inversion recovery curve for MOLLI and HYTOM, and fit the simulated signal to a 3-parameter model
 
 <img src="https://raw.githubusercontent.com/chongduan/HYTOM/master/Images/Relax.png" width="500">
-
-## License
-
-<a href="https://choosealicense.com/licenses/mit/">MIT</a> and <a href="https://github.com/mriphysics/EPG-X/blob/master/LICENSE">EPG-X License</a>
