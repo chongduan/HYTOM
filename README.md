@@ -7,7 +7,7 @@ This repository contains all simulation codes used in the above paper. These sim
 
 Feel free to reach me at <a href="mailto:duanchong520@gmail.com">duanchong520@gmail.com</a> if you have any questions or want to contribute to these simulation code.
 
-If you find this helpful, please cite <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27636">Duan et al. MRM 2018</a>.
+If you find this helpful, please cite <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27636">Duan et al. MRM 2018</a> and <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.27040">Malik et al. MRM 2017</a>.
 
 ## Requirements
 <li>Matlab R2017a (earlier version may also work, not tested yet)</li>
